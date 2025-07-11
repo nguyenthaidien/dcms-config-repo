@@ -1,4 +1,0 @@
-message: Hello from Service One (Dev)!
-spring:
-  datasource:
-    url: jdbc:mysql://localhost:3306/dev_db
